@@ -27,7 +27,7 @@ SECRET_KEY = ')-&w3&p%=d53lq6=^h*#51u@su(+cwy9a-spek=msa(9z14*nf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['abg-boutique-ado.heroku.com', 'localhost']
+ALLOWED_HOSTS = ['abg-boutique-ado.herokuapp.com', 'localhost']
 
 
 # Application definition
